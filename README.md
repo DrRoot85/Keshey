@@ -1,4 +1,2 @@
-Season
+Keshey
 ======
-
-Coming Soon Responsive HTML Template
